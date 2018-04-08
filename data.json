@@ -1,0 +1,47 @@
+{
+	"basics":{
+		"name":"Sravani",
+		"profile_pic":"sravs.jpg",
+		"email":"b.sravani9057@gmail.com",
+		"mobile":"999999999"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+
+	},
+"education":[
+{
+	"degree":"B.tech",
+	"institute":"SVIT,Anantapur",
+	"date":["2016-20","82.2%"]
+},
+{
+	"degree":"Intermediate",
+	"institute":"Sri chaithanya,Anantapur",
+	"date":["2014-16","83.2%"]
+},
+{
+"degree":"SSC",
+	"institute":"Narayana techno school,Anantapur",
+	"date":["2014","86.2%"]	
+}
+],
+"skills":[
+	{
+		"sname":"Languages",
+		"sdata":["c","c++","java"]
+	},
+    {
+		"sname":"Databases",
+		"sdata":["mysq","oracle","mysqlite","PDF"]
+	},
+	 {
+		"sname":"web Technology",
+		"sdata":["HTML","xml","css","php","javascript"]
+	},
+ {
+		"sname":"Operating system",
+		"sdata":["windows,unix,linux"]
+	}
+]
+} 
