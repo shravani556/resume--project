@@ -57,7 +57,7 @@ function skills(sk){
 	right.appendChild(table);
 	var table_data="";
 	for(var i=0; i<sk.length; i++){
-		table_data+="<tr><td>"+sk[i].sname+"</td>td>"+sk[i].sdata+"<td></tr>";
+		table_data+="<tr><td>"+sk[i].sname+"</td><td>"+sk[i].sdata+"</td></tr>";
 	}
 		table.innerHTML=table_data;
 		table.border="1";
